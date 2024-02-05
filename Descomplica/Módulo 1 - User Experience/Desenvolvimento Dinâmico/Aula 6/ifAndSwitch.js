@@ -18,7 +18,7 @@ if(idade < 16){
 }
 
 // UTILIZANDO SWITCH
-diaSem = 8;
+diaSem = 2;
 
 switch(diaSem){
     case 1: 
